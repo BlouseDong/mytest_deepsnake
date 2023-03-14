@@ -60,8 +60,8 @@ cfg.result_dir = 'data/result'
 # evaluation
 cfg.skip_eval = False
 
-cfg.save_ep = 5
-cfg.eval_ep = 5
+cfg.save_ep = 10
+cfg.eval_ep = 10
 
 cfg.use_gt_det = False
 
